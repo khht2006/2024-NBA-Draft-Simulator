@@ -13,6 +13,6 @@ NBA Draft Lottery Simulator | Java, GUI
 - Implemented the official NBA Draft lottery odds distribution for all 30 teams.
 
 - Utilized multi-threading to synchronize graphical updates smoothly.
-  
-* Modelled after https://www.tankathon.com *
+
+(Modelled after https://www.tankathon.com)
 
