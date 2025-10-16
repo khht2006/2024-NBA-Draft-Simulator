@@ -1,3 +1,3 @@
 # 2024 NBA Draft Simulator
-Open the summative.jar file inside the summative.zip folder to use the tool. (click on "view raw" after clicking on the summative.zip folder to download the zip folder first)
+Open the summative.jar file inside the summative.zip folder to use the tool. (click on "view raw" after clicking on the summative.zip folder to download everything first)
 -Placeholder-
