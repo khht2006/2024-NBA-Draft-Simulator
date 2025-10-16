@@ -14,5 +14,5 @@ NBA Draft Lottery Simulator | Java, GUI
 
 - Utilized multi-threading to synchronize graphical updates smoothly.
 
-(Modelled after https://www.tankathon.com)
+[Modelled after https://www.tankathon.com]
 
